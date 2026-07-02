@@ -111,7 +111,7 @@ This allocation has a 3-month cliff, followed by linear vesting over 48 months. 
 
 ## Hybrid DAO Fee Alignment
 
-ORI also supports the protocol fee layer. The intended model applies a lower completed-transaction fee for ORI settlement and a higher fee for supported stablecoin rails.
+ORI also supports the protocol fee layer. The intended model applies a lower completed-transaction fee for ORI settlement and a higher fee for supported stablecoin rails. See [Hybrid DAO](./hybrid-dao.md) for the public governance summary.
 
 | Payment rail | Completed transaction fee | Protocol fee allocation |
 | --- | ---: | --- |

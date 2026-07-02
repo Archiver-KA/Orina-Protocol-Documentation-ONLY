@@ -27,6 +27,7 @@ It is not a source-code repository, deployment repository, audit report, or prod
 - Formal assurance and internal audit status summary.
 - Grant and ecosystem summary language.
 - ORI tokenomics and public economic reference material.
+- Hybrid DAO fee-governance summary.
 - Public link directory and documentation boundary.
 
 ## Not Included
@@ -46,6 +47,7 @@ It is not a source-code repository, deployment repository, audit report, or prod
 | Protocol outcomes | [docs/protocol-outcomes.md](./docs/protocol-outcomes.md) |
 | Public use cases | [docs/use-cases.md](./docs/use-cases.md) |
 | ORI tokenomics | [docs/tokenomics.md](./docs/tokenomics.md) |
+| Hybrid DAO | [docs/hybrid-dao.md](./docs/hybrid-dao.md) |
 | Public testnet addresses | [docs/testnet-addresses.md](./docs/testnet-addresses.md) |
 | Security and readiness | [docs/security-and-readiness.md](./docs/security-and-readiness.md) |
 | Formal and audit status | [docs/formal-and-audit-status.md](./docs/formal-and-audit-status.md) |
@@ -53,15 +55,19 @@ It is not a source-code repository, deployment repository, audit report, or prod
 | Official links | [docs/official-links.md](./docs/official-links.md) |
 | Grant summary | [docs/grant-summary.md](./docs/grant-summary.md) |
 
-## Primary Public ATP Addresses
+## Public ATP Testnet Addresses
 
 | Network | Chain ID | Primary ATP contract |
 | --- | ---: | --- |
-| BSC Testnet | `97` | `0x18E1C8ab257FAf16Ec8257A9715d07661194150B` |
-| Base Sepolia | `84532` | `0x6d132Ba2327573c4e6f97a2167dCddb8059C4d14` |
-| Arbitrum Sepolia | `421614` | `0x5863f25A8250EBe20Bd1E3d04FD796081Fc3D72E` |
+| <img src="./assets/network-logos/bnb.png" width="20" alt="BNB Chain" /> BSC Testnet | `97` | `0x18E1C8ab257FAf16Ec8257A9715d07661194150B` |
+| <img src="./assets/network-logos/base.png" width="20" alt="Base" /> Base Sepolia | `84532` | `0x6d132Ba2327573c4e6f97a2167dCddb8059C4d14` |
+| <img src="./assets/network-logos/arbitrum.png" width="20" alt="Arbitrum" /> Arbitrum Sepolia | `421614` | `0x5863f25A8250EBe20Bd1E3d04FD796081Fc3D72E` |
+| <img src="./assets/network-logos/ethereum.png" width="20" alt="Ethereum" /> Ethereum Sepolia | `11155111` | `0x6d132Ba2327573c4e6f97a2167dCddb8059C4d14` |
+| <img src="./assets/network-logos/optimism.svg" width="20" alt="Optimism" /> Optimism Sepolia | `11155420` | `0x6d132Ba2327573c4e6f97a2167dCddb8059C4d14` |
+| <img src="./assets/network-logos/avalanche.png" width="20" alt="Avalanche" /> Avalanche Fuji | `43113` | `0x6d132Ba2327573c4e6f97a2167dCddb8059C4d14` |
+| <img src="./assets/network-logos/worldchain.svg" width="20" alt="World Chain" /> World Chain Sepolia | `4801` | `0x6d132Ba2327573c4e6f97a2167dCddb8059C4d14` |
 
-Only these selected primary ATP addresses are published in this repository. Additional deployment details remain outside the public documentation boundary unless separately approved by the project owner.
+Only these primary ATP addresses are published in this repository. Additional deployment details remain outside the public documentation boundary unless separately approved by the project owner.
 
 ## Official Links
 
