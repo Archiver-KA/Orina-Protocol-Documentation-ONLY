@@ -6,6 +6,10 @@ Orina Protocol is a settlement layer for bilateral commerce. Its Atomic Transact
 
 This public repository is intentionally outcome-focused. It describes what the protocol is meant to provide for users, integrators, grant reviewers, and ecosystem partners without publishing private implementation details, internal runbooks, source-level contract mechanics, formal artifacts, bytecode, or wallet automation design material.
 
+## Overview Video
+
+[![Orina Protocol Overview](https://img.youtube.com/vi/Ct0x9zTfylQ/hqdefault.jpg)](https://youtu.be/Ct0x9zTfylQ)
+
 ## Public Documentation Intent
 
 This repository is the approved public reference set for Orina Protocol outcome documentation. It is suitable for:
