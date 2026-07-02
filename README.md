@@ -24,6 +24,7 @@ It is not a source-code repository, deployment repository, audit report, or prod
 - Project profile and protocol outcomes.
 - Public testnet evidence for selected ATP deployments.
 - Security and production-readiness posture.
+- Formal assurance and internal audit status summary.
 - Grant and ecosystem summary language.
 - ORI tokenomics and public economic reference material.
 - Public link directory and documentation boundary.
@@ -33,7 +34,7 @@ It is not a source-code repository, deployment repository, audit report, or prod
 - Private implementation details.
 - Internal deployment procedures.
 - Source-level contract internals.
-- Formal model artifacts and bytecode files.
+- Formal model artifacts, bytecode files, and verification internals.
 - Private wallet automation design material or operator runbooks.
 - Secrets, private keys, RPC keys, service-role keys, or local logs.
 
@@ -47,6 +48,7 @@ It is not a source-code repository, deployment repository, audit report, or prod
 | ORI tokenomics | [docs/tokenomics.md](./docs/tokenomics.md) |
 | Public testnet addresses | [docs/testnet-addresses.md](./docs/testnet-addresses.md) |
 | Security and readiness | [docs/security-and-readiness.md](./docs/security-and-readiness.md) |
+| Formal and audit status | [docs/formal-and-audit-status.md](./docs/formal-and-audit-status.md) |
 | Public disclosure boundary | [docs/public-disclosure-boundary.md](./docs/public-disclosure-boundary.md) |
 | Official links | [docs/official-links.md](./docs/official-links.md) |
 | Grant summary | [docs/grant-summary.md](./docs/grant-summary.md) |

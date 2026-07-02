@@ -16,6 +16,7 @@ This repository is the public documentation boundary for Orina Protocol. It is d
 | Selected addresses | Three primary ATP testnet contracts only |
 | Tokenomics | ORI public allocation, unlock, and fee-alignment reference |
 | Readiness | Public distinction between testnet evidence and production approval |
+| Formal and audit posture | Summary-level assurance status without model files, bytecode, traces, or internal findings detail |
 | Links | Official website, runtime app, whitepaper, social channels, and this repository |
 
 ## Excluded
@@ -27,7 +28,7 @@ This repository is the public documentation boundary for Orina Protocol. It is d
 | Auxiliary contract addresses | Not part of the approved public address sheet |
 | Deployment scripts and runbooks | Operational security boundary |
 | Private wallet automation design | Protected product and IP boundary |
-| Formal artifacts, bytecode dumps, and internal logs | Verification and operations boundary |
+| Formal artifacts, bytecode dumps, traces, and internal logs | Verification and operations boundary |
 | Secrets, keys, service credentials, and RPC configuration | Security boundary |
 
 ## Public Review Rule
@@ -42,6 +43,7 @@ Public descriptions should prefer:
 - "escrowed transaction lifecycle"
 - "testnet-operated"
 - "production readiness pending"
+- "formal assurance summary"
 - "selected public ATP addresses"
 - "automation-ready commerce interfaces"
 
