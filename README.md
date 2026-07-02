@@ -19,25 +19,41 @@ This repository is the approved public reference set for Orina Protocol outcome 
 
 It is not a source-code repository, deployment repository, audit report, or production approval package.
 
-## Public Scope
+## Why Orina Exists
 
-- Project profile and protocol outcomes.
-- Public testnet evidence for selected ATP deployments.
-- Security and production-readiness posture.
-- Formal assurance and internal audit status summary.
-- Grant and ecosystem summary language.
-- ORI tokenomics and public economic reference material.
-- Hybrid DAO fee-governance summary.
-- Public link directory and documentation boundary.
+Digital commerce still depends on trusted intermediaries. Whether parties are exchanging assets, paying for services, purchasing goods, or coordinating automated systems, settlement often depends on centralized platforms, escrow providers, or manual dispute resolution.
 
-## Not Included
+These approaches increase cost, reduce transparency, and create single points of failure. Orina replaces trust with deterministic settlement rules executed directly by protocol.
 
-- Private implementation details.
-- Internal deployment procedures.
-- Source-level contract internals.
-- Formal model artifacts, bytecode files, and verification internals.
-- Private wallet automation design material or operator runbooks.
-- Secrets, private keys, RPC keys, service-role keys, or local logs.
+## What Orina Does
+
+Orina standardizes the settlement path for bilateral transactions:
+
+- Agreement: both parties accept programmable settlement conditions before execution.
+- Asset commitment: the transaction value or deliverable is committed to the flow.
+- Condition verification: agreed conditions, deadlines, and dispute paths are evaluated.
+- Deterministic settlement: the transaction reaches exactly one canonical final outcome.
+
+## Core Principles
+
+- Deterministic Settlement: every transaction reaches exactly one final state.
+- Trust-Minimized: neither party needs to trust the other.
+- Programmable Conditions: settlement logic is defined before execution.
+- Composable: marketplaces, wallets, AI systems, and enterprise applications can integrate Orina.
+- Permissionless: anyone can build on the protocol.
+
+## Where Orina Can Be Used
+
+| Area | Examples |
+| --- | --- |
+| Commerce | Goods, service payments, procurement, cross-border transactions |
+| Financial | OTC trading, escrow, asset exchange |
+| AI Economy | AI agent commerce, autonomous payments, machine-to-machine settlement |
+| Assets | Digital assets, physical assets, tokenized assets |
+
+## What Orina Is Not
+
+Orina is not a marketplace, escrow provider, or payment gateway. It is a settlement protocol that marketplaces, AI agents, wallets, and commerce platforms can integrate as infrastructure.
 
 ## Documentation
 
