@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-Orina Protocol is a settlement layer for bilateral commerce. ATP gives marketplaces, wallets, AI-assisted workflows, and commerce applications a reusable protocol for escrowed, time-bounded, dispute-aware transactions that reach one final settlement outcome.
+Orina Protocol is a settlement layer for bilateral commerce. ATP gives marketplaces, wallets, software-assisted workflows, and commerce applications a reusable protocol for escrowed, time-bounded, dispute-aware transactions that reach one final settlement outcome.
 
 ## Problem
 

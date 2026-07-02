@@ -12,7 +12,7 @@ Orina Protocol provides a reusable settlement layer for bilateral commerce. ATP 
 | Dispute boundary | A transaction can enter a dispute path instead of remaining unresolved. |
 | Final settlement record | Completed transactions produce a canonical settlement result. |
 | Application composability | Marketplaces, wallets, dashboards, and partner applications can build around a common settlement layer. |
-| Bounded automation outcome | Software-assisted workflows can be constrained by user authorization and protocol policy without changing the final settlement authority. |
+| Automation-ready outcome | Software-assisted workflows can be constrained by user authorization and protocol policy without changing the final settlement authority. |
 
 ## What ATP Does Not Claim
 

@@ -1,15 +1,32 @@
 # Orina Protocol Public Documentation
 
+![Orina Protocol public documentation cover](./assets/images/orina-banner-github.jpg)
+
 Orina Protocol is a settlement layer for bilateral commerce. Its Atomic Transaction Protocol (ATP) helps two independent parties move a transaction through an explicit lifecycle and reach one final settlement outcome.
 
-This public repository is intentionally outcome-focused. It describes what the protocol is meant to provide for users, integrators, and ecosystem reviewers without publishing private implementation details, internal runbooks, source-level contract mechanics, formal artifacts, bytecode, or automation internals.
+This public repository is intentionally outcome-focused. It describes what the protocol is meant to provide for users, integrators, grant reviewers, and ecosystem partners without publishing private implementation details, internal runbooks, source-level contract mechanics, formal artifacts, bytecode, or wallet automation design material.
+
+## Public Documentation Intent
+
+This repository is the approved public reference set for Orina Protocol outcome documentation. It is suitable for:
+
+- grant and ecosystem applications,
+- public project review,
+- partner intake,
+- early integration orientation,
+- high-level tokenomics review,
+- selected testnet address verification.
+
+It is not a source-code repository, deployment repository, audit report, or production approval package.
 
 ## Public Scope
 
-- Project positioning and protocol outcomes.
+- Project profile and protocol outcomes.
 - Public testnet evidence for selected ATP deployments.
 - Security and production-readiness posture.
 - Grant and ecosystem summary language.
+- ORI tokenomics and public economic reference material.
+- Public link directory and documentation boundary.
 
 ## Not Included
 
@@ -17,17 +34,32 @@ This public repository is intentionally outcome-focused. It describes what the p
 - Internal deployment procedures.
 - Source-level contract internals.
 - Formal model artifacts and bytecode files.
-- Automation wallet design, delegated execution internals, or operator runbooks.
+- Private wallet automation design material or operator runbooks.
 - Secrets, private keys, RPC keys, service-role keys, or local logs.
 
 ## Documentation
 
 | Topic | Link |
 | --- | --- |
+| Project profile | [docs/project-profile.md](./docs/project-profile.md) |
 | Protocol outcomes | [docs/protocol-outcomes.md](./docs/protocol-outcomes.md) |
+| Public use cases | [docs/use-cases.md](./docs/use-cases.md) |
+| ORI tokenomics | [docs/tokenomics.md](./docs/tokenomics.md) |
 | Public testnet addresses | [docs/testnet-addresses.md](./docs/testnet-addresses.md) |
 | Security and readiness | [docs/security-and-readiness.md](./docs/security-and-readiness.md) |
+| Public disclosure boundary | [docs/public-disclosure-boundary.md](./docs/public-disclosure-boundary.md) |
+| Official links | [docs/official-links.md](./docs/official-links.md) |
 | Grant summary | [docs/grant-summary.md](./docs/grant-summary.md) |
+
+## Primary Public ATP Addresses
+
+| Network | Chain ID | Primary ATP contract |
+| --- | ---: | --- |
+| BSC Testnet | `97` | `0x18E1C8ab257FAf16Ec8257A9715d07661194150B` |
+| Base Sepolia | `84532` | `0x6d132Ba2327573c4e6f97a2167dCddb8059C4d14` |
+| Arbitrum Sepolia | `421614` | `0x5863f25A8250EBe20Bd1E3d04FD796081Fc3D72E` |
+
+Only these selected primary ATP addresses are published in this repository. Additional deployment details remain outside the public documentation boundary unless separately approved by the project owner.
 
 ## Official Links
 
@@ -40,6 +72,10 @@ This public repository is intentionally outcome-focused. It describes what the p
 | Discord | https://discord.gg/vythc6X9qF |
 | Telegram | https://t.me/orinaofficial |
 | Public docs | https://github.com/Archiver-KA/Orina-Protocol-Documentation-ONLY |
+
+## License
+
+This repository is published under a read-only documentation license. You may view and reference the material, but you may not modify, redistribute, republish, sublicense, or create derivative works from it without written permission. See [LICENSE.md](./LICENSE.md).
 
 ## Production Status
 

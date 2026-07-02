@@ -19,7 +19,7 @@ Use:
 - "production readiness pending"
 - "verification-oriented"
 - "settlement outcome layer"
-- "bounded automation outcome"
+- "automation-ready commerce outcome"
 
 Avoid:
 
